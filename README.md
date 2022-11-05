@@ -11,7 +11,7 @@ This script lets user to glue few layered MIDI regions to one in "G-mode" (Grab 
 ### Installation (Linux):
 
 (1)
-Download the script via "Raw" button (right mouse button -> Save Link As) and put the downloaded file in to the directory <b>.config/adrour7/scripts</b> (if the directory doesn't exist - just create it):
+Download the script via "Raw" button from here: https://github.com/cooltehno/ardour-cooltehno-lua/blob/main/MIDI_Glue.lua (right mouse button -> Save Link As) and put the downloaded file in to the directory <b>.config/adrour7/scripts</b> (if the directory doesn't exist - just create it):
 
 ![MIDI_Glue_Install](https://user-images.githubusercontent.com/19673308/200136244-2c0a30b7-a4a3-4703-9ad5-dfa848dbf20b.gif)
 
