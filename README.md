@@ -31,7 +31,7 @@ Just select desired regions in the bundle of layers you're going to "glue" then 
 
 
 ### How the script works
-The script uses stendard Ardour's commands one bay one:
+The script uses stendard Ardour's commands one by one:
 - <b>Set Range to Selected Regions</b>
 - <b>Consolidate</b>
 - & returns the Mouse mode from "<b>R</b>" back to "<b>G</b>"
