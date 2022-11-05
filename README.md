@@ -36,3 +36,14 @@ The script uses stendard Ardour's commands one by one:
 - <b>Set Range to Selected Regions</b>
 - <b>Consolidate</b>
 - & returns the Mouse mode from "<b>R</b>" back to "<b>G</b>"
+
+### Few conditionals for correct gluing ALL the midi notes:
+- All the layers must be transparent (not opaque) (Alt+0):
+![context_transparent_no_opaque](https://user-images.githubusercontent.com/19673308/200143773-ef990475-7add-4bb1-96e9-aad08bd7715a.png)
+
+- For default transparent new region drawing - Session Properties>MIDI Options>Draw tool creates opaque MIDI regions - must be unchecked:
+
+![uchecked_opaque](https://user-images.githubusercontent.com/19673308/200143842-8d700f89-0244-4074-a129-c85c59badee2.png)
+
+- For default transparent new region recording - the “Rec:” drop-down (just right of the transport controls) - must be <b>Snd on Snd</b>:
+![Snd on Snd](https://user-images.githubusercontent.com/19673308/200143888-8e9999bd-bdb9-4254-b652-9402bdf590b0.gif)
