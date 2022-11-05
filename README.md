@@ -17,7 +17,8 @@ Download the script via "Raw" button from here: https://github.com/cooltehno/ard
 
 (2)
 For comfortable usage - you can assign this script to assignable button in Ardour GUI:
-![MIDI_Glue_assign](https://user-images.githubusercontent.com/19673308/200134231-12e3e3b9-ddf1-4781-838e-b895dc4fa4be.gif)(then you'll get a MIDI Glue icon on the desired botton):     ![MIDI_Glue_icon](https://user-images.githubusercontent.com/19673308/200134378-2cd3bc5f-4af0-4dfb-935e-7da7e118e1f3.png)
+![MIDI_Glue_assign](https://user-images.githubusercontent.com/19673308/200134231-12e3e3b9-ddf1-4781-838e-b895dc4fa4be.gif)
+- (then you'll get a MIDI Glue icon on the desired botton):     ![MIDI_Glue_icon](https://user-images.githubusercontent.com/19673308/200134378-2cd3bc5f-4af0-4dfb-935e-7da7e118e1f3.png)
 
 (3)
 You can use the assigned button as it is, but you can make even more comfortable assigment
