@@ -5,7 +5,7 @@ ardour {
     name        = "MIDI Glue",
     license     = "MIT",
     author      = "cooltehno",
-    description = "consolidate all regions with the selected one/few"
+    description = "consolidate all regions in the track with the selected one/few"
 }
 
 function factory () return function ()
