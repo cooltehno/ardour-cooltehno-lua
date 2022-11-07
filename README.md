@@ -6,7 +6,7 @@ This is my collection of LUA scripts for DAW Ardour (https://ardour.org/)
 
 ### Description:
 
-This script lets user to glue few layered MIDI regions to one in "G-mode" (Grab Mode) in Ardour. All you need to do is to select one or more of the layered regions in "G-mode" and run the script.
+This script lets user to glue few layered MIDI regions to one in "G-mode" (Grab Mode) in Ardour. All you need to do is to select one or more of the layered regions in "G-mode" and run the script. This script works only with Ardour 7, not with Ardour 6.9
 
 ### Installation (Linux):
 
