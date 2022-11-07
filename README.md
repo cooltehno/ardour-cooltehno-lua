@@ -28,7 +28,8 @@ using Shortcut through the Keyboard Shortcuts. In the GIF example the used combi
 
 ### USAGE:
 Just select desired regions in the bundle of layers you're going to "glue" then press <b>Alt+G & Enter</b> (this keyboard binding works, if you make the assigments (2),(3) described above in the installation). The <b>Enter</b> key closes the emerging dialogue with the default settings:
-![MIDI_Glue_USAGE](https://user-images.githubusercontent.com/19673308/200138108-71bf546e-e739-432f-adf1-7adf5bca0d51.gif)
+![MIDI_Glue_USAGE](https://user-images.githubusercontent.com/19673308/200234537-094ecdbe-3976-47e3-aa67-9969fb85c9b7.gif)
+
 
 
 ### How the script works
