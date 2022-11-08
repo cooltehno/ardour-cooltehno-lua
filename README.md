@@ -1,6 +1,6 @@
 # ardour-cooltehno-lua
 
-This is my collection of LUA scripts for DAW Ardour (https://ardour.org/)
+This is my collection of LUA scripts for DAW Ardour (https://ardour.org/) Free to use or do whatever you want with it.
 
 ## 1. MIDI Glue ![MIDI_Glue_icon](https://user-images.githubusercontent.com/19673308/200134679-1c25a406-5e14-4531-b490-87e5278b7c46.png)
 
