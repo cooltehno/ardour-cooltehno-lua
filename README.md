@@ -48,3 +48,6 @@ The script uses stendard Ardour's commands one by one:
 
 - For default transparent new region recording - the “Rec:” drop-down (just right of the transport controls) - must be <b>Snd on Snd</b>:
 ![Snd on Snd](https://user-images.githubusercontent.com/19673308/200143888-8e9999bd-bdb9-4254-b652-9402bdf590b0.gif)
+
+### Discussion:
+https://discourse.ardour.org/t/midi-glue-lua-script-midi-join/107829
