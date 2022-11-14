@@ -47,6 +47,7 @@ The script uses stendard Ardour's commands one by one:
 ![uchecked_opaque](https://user-images.githubusercontent.com/19673308/200143842-8d700f89-0244-4074-a129-c85c59badee2.png)
 
 - For default transparent new region recording - the “Rec:” drop-down (just right of the transport controls) - must be <b>Snd on Snd</b>:
+
 ![Snd on Snd](https://user-images.githubusercontent.com/19673308/200143888-8e9999bd-bdb9-4254-b652-9402bdf590b0.gif)
 
 ### Discussion:
