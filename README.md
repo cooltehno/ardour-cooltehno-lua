@@ -60,3 +60,26 @@ https://discourse.ardour.org/t/midi-glue-lua-script-midi-join/107829
 
 This script lets user to toggle the Input Monitor of the <b>Editor</b>'s Mixer Strip. The goal is to make this action assignable through the Keyboard Shortcuts Ardour's window. (There's allready the assignable action in Ardour for Input Monitor - but this works only for Mixer window (Default Shortcut - "I")).
 This script works both with Ardour 6.9 & 7.x.
+
+### Installation (Linux):
+
+(1)
+Download the script via "Raw" button from here: https://github.com/cooltehno/ardour-cooltehno-lua/blob/main/Input_Monitor_Editor_Strip.lua (right mouse button -> Save Link As) and put the downloaded file in to the directory <b>.config/adrour7/scripts</b> (if the directory doesn't exist - just create it):
+
+(2)
+Assign this script to assignable button in Ardour GUI:
+
+![action_button_in_mon_editor_strip](https://user-images.githubusercontent.com/19673308/205148014-979e3be3-abe4-4c21-8b66-27ba86613d05.gif)
+
+
+- (then you'll get a MIDI Glue icon on the desired botton):  ![input_monitor_editor_strip_icon](https://user-images.githubusercontent.com/19673308/205143663-1b268d65-76b2-4713-b85e-ade8158a2e8d.png)
+
+
+(3)
+Assign the desired Keyboard combination to the LUA Action button of this script through the Keyboard Shortcuts. In the GIF example the used combination is "<b>Num.</b>" (the dot of a NumPad):
+![assign_shortcut_input_monitor_editor_strip](https://user-images.githubusercontent.com/19673308/205144614-eb4e85f1-fd71-4ada-91a9-603a24a3bb63.gif)
+
+### USAGE:
+Just select desired tracks in the Editor window and press your assigned Keyboard combination (<b>Num.</b> for example) and you'll get a comfortable switch on/off function to monitor you input signals in the Editor window!!:
+
+![toggle_input_editor_strip_inaction](https://user-images.githubusercontent.com/19673308/205150894-944b4bc2-ce1f-4680-9a44-17b5f09d8fe7.gif)
