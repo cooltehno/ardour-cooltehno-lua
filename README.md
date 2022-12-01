@@ -55,3 +55,8 @@ https://discourse.ardour.org/t/midi-glue-lua-script-midi-join/107829
 
 
 ## 2. Input Monitor Editor Strip ![input_monitor_editor_strip_icon](https://user-images.githubusercontent.com/19673308/205136647-2ec68bf1-aabb-48f1-bbde-d1c960c02ab8.png)
+
+### Description:
+
+This script lets user to toggle the Input Monitor of the <b>Editor</b>'s Mixer Strip. The goal is to make this action assignable through the Keyboard Shortcuts Ardour's window. (There's allready the assignable action in Ardour for Input Monitor - but this works only for Mixer window (Default Shortcut - "I")).
+This script works both with Ardour 6.9 & 7.x.
