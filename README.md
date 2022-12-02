@@ -74,7 +74,7 @@ Assign this script to assignable button in Ardour GUI:
 ![action_button_in_mon_editor_strip](https://user-images.githubusercontent.com/19673308/205148014-979e3be3-abe4-4c21-8b66-27ba86613d05.gif)
 
 
-- (then you'll get a MIDI Glue icon on the desired botton):  ![input_monitor_editor_strip_icon](https://user-images.githubusercontent.com/19673308/205143663-1b268d65-76b2-4713-b85e-ade8158a2e8d.png)
+- (then you'll get a Input Monitoring Editor MixStrip icon on the desired botton):  ![input_monitor_editor_strip_icon](https://user-images.githubusercontent.com/19673308/205143663-1b268d65-76b2-4713-b85e-ade8158a2e8d.png)
 
 
 (3)
