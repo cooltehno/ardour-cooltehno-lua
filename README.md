@@ -6,7 +6,7 @@ This is my collection of LUA scripts for DAW Ardour (https://ardour.org/) Free t
 
 ### Description:
 
-This script lets user to glue few layered MIDI regions to one in "G-mode" (Grab Mode) in Ardour. All you need to do is to select one or more of the layered regions in "G-mode" and run the script. This script works only with Ardour 7, not with Ardour 6.9
+This script lets a user to glue few layered MIDI regions to one in "G-mode" (Grab Mode) in Ardour. All you need to do is to select one or more of the layered regions in "G-mode" and run the script. This script works only with Ardour 7, not with Ardour 6.9
 
 ### Installation (Linux):
 
@@ -58,7 +58,7 @@ https://discourse.ardour.org/t/midi-glue-lua-script-midi-join/107829
 
 ### Description:
 
-This script lets user to toggle the Input Monitor of the <b>Editor</b>'s Mixer Strip. The goal is to make this action assignable through the Keyboard Shortcuts Ardour's window. This script works both with Ardour 6.9 & 7.x.
+This script lets a user to toggle the Input Monitor of the <b>Editor</b>'s Mixer Strip. The goal is to make this action assignable through the Keyboard Shortcuts Ardour's window. This script works both with Ardour 6.9 & 7.x.
 
 (There's allready the assignable action in Ardour for Input Monitor - <b>but</b> this works only for Mixer window (Default Shortcut - "I")).
 
